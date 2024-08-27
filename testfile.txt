@@ -2,3 +2,4 @@ this is my first file.
 a change
 new change
 from second
+changed
