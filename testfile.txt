@@ -3,3 +3,4 @@ a change
 new change
 from second
 changed
+4
